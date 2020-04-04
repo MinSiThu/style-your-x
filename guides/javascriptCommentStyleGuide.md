@@ -1,4 +1,4 @@
-##JavaScript Comment & Documentation Style Guide
+## JavaScript Comment & Documentation Style Guide
 
 Comment တခုကို code ရဲ့ရည်ရွယ်ချက်က ဘာလဲနဲ့ ဘာလို့ဒီလိုပုံစံ code ရေးထားရတာလဲဆိုတာရှင်းပြရင်အကောင်းဆုံးပါ။
 
