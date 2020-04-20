@@ -3,3 +3,4 @@
 
 - [Git Commit Style Guide](https://github.com/MinSiThu/style-your-x/blob/master/guides/gitCommitStyleGuide.md)
 - [JavaScript Comment & Doc Style Guide](https://github.com/MinSiThu/style-your-x/blob/master/guides/javascriptCommentStyleGuide.md)
+- [Flutter Style Guide](https://github.com/MinSiThu/style-your-x/blob/master/guides/flutterCommitStyleGuide.md)
